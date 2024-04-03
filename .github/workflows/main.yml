@@ -1,4 +1,4 @@
-name: Publish Node Docker
+name: Dockertest
 on:
   push:
    branches: [ main ]
